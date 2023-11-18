@@ -1,5 +1,1 @@
-<div align='center'>
-
-<h3><samp><strong>sami</strong> 👋 </samp></h3>
-<p><samp>Computer Software Student<br>Aspiring to work inside the Fintech Industry</samp></p>
-<br>
+[![Discord Presence](https://lanyard.cnrad.dev/api/1013505676565299352)](https://discord.com/users/1013505676565299352)
